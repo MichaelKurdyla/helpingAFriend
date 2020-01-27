@@ -47,6 +47,10 @@ body {
   align-items: center;
 }
 */
+
+html{
+  scroll-behavior: smooth;
+}
 .mac-wrapper {
   width: 100%;
   max-width: 500px;
